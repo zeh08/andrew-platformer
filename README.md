@@ -74,4 +74,4 @@ Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 - 代码风格：保持简单直观，必要时再抽象
 
 ## 许可
-当前未指定许可证。如需开源建议添加 MIT License。
+本项目已添加 LICENSE 文件，详情请查阅仓库中的 `LICENSE` 文件。
